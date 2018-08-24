@@ -2,10 +2,10 @@
 title: 0x2bc Blog
 SEOTitle: 0x2bc 的博客 | 0x2bc Blog
 header-img: img/home-bg.jpg
-email: hqw700@gmail.com
+email: hex2bc@gmail.com
 description: "nothing"
 keyword: "android"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url:                   # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
