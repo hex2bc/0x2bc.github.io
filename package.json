@@ -1,14 +1,8 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "hex2bc-blog",
+    "title": "hex2bc Blog",
+    "author": "hex2bc <hex2bc@gmail.com>",
     "version": "1.7.0",
-    "homepage": "http://huxpro.github.io",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
-    },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",

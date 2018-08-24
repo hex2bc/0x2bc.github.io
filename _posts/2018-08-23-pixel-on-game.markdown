@@ -3,7 +3,7 @@ layout:     post
 title:      "pixel 折腾日记(1)"
 subtitle:   "刷官方及第三方固件"
 date:       2018-08-23 
-author:     "0x2bc"
+author:     "hex2bc"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
 catalog: true
 tags:

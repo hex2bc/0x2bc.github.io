@@ -1,6 +1,6 @@
 # Site settings
-title: 0x2bc Blog
-SEOTitle: 0x2bc 的博客 | 0x2bc Blog
+title: hex2bc Blog
+SEOTitle: hex2bc 的博客
 header-img: img/home-bg.jpg
 email: hex2bc@gmail.com
 description: "nothing"
@@ -27,7 +27,7 @@ RSS: false
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 #timezone: CN  
