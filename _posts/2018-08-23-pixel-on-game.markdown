@@ -1,18 +1,18 @@
 ---
 layout:     post
-title:      "pixel 折腾日记(1)"
+title:      "Pixel 折腾日记 (1)"
 subtitle:   "刷官方及第三方固件"
 date:       2018-08-23 
 author:     "hex2bc"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
 catalog: true
 tags:
-    - pixel
+    - Pixel
     - 刷机
     - LineageOS
 ---  
 
->闲来无事从闲鱼上买了个一代pixel来玩，体验下刷机的快感。本文主要介绍如何下载pixel官方固件和第三方的LineageOS固件，以及有锁版pixel的解锁。  
+>闲来无事从闲鱼上买了个一代Pixel来玩，体验下刷机的快感。本文主要介绍如何下载Pixel官方固件和第三方的LineageOS固件，以及有锁版Pixel的解锁。  
 
 ## 一、OEM解锁
 ### 1.1 无锁机器  
@@ -40,7 +40,7 @@ tags:
 ## 二、刷官方最新固件
 ### 2.1 下载地址
 既然是亲儿子，肯定能用上最新的系统，官方固件从[https://developers.google.com/android/images#sailfish](https://developers.google.com/android/images#sailfish "sailfish for Pixel") （自备梯子）上下载。  
-一代pixel的代号是sailfish。Pixel XL的代号是marlin。
+一代Pixel的代号是sailfish。Pixel XL的代号是marlin。
 
 ### 2.2 官方刷机教程
 [https://developers.google.com/android/images#instructions](https://developers.google.com/android/images#instructions)
