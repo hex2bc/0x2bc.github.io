@@ -72,7 +72,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "若你喜欢怪人，其实我很美"
+sidebar-about-description: "世界是个游乐场"
 sidebar-avatar: /img/android-pie.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
